@@ -11,7 +11,7 @@ My undergraduate thesis is an Android virtual classroom with live video, chat an
   <a href="https://github.com/nickfouf/ClassWave-Portfolio"><img src="https://raw.githubusercontent.com/nickfouf/ClassWave-Portfolio/main/docs/images/live-chat.jpg" width="180" alt="ClassWave real-time chat" /></a>
 </p>
 
-[Explore ClassWave](https://github.com/nickfouf/ClassWave-Portfolio) · [Watch the demo](https://github.com/nickfouf/ClassWave-Portfolio/releases/download/showcase-v1/ClassWave_Demo.mp4) · [Read the thesis](https://github.com/nickfouf/ClassWave-Portfolio/blob/main/docs/thesis/ClassWave_Thesis_EL.pdf)
+[Explore ClassWave](https://github.com/nickfouf/ClassWave-Portfolio) · [Watch the demo](https://github.com/nickfouf/ClassWave-Portfolio/releases/download/showcase-v1/ClassWave_Demo.mp4)
 
 ## Selected projects
 
