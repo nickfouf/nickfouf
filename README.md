@@ -18,10 +18,10 @@ My undergraduate thesis is an Android virtual classroom with live video, chat an
 | Project | What it explores |
 | --- | --- |
 | [ClassWave](https://github.com/nickfouf/ClassWave-Portfolio) | Android virtual classrooms, WebRTC media and backend services |
+| [C++ Stepper](https://github.com/nickfouf/cpp-stepper) | Educational C++ parsing and step-by-step evaluation in JavaScript |
 | [LiveLyrics](https://github.com/nickfouf/LiveLyrics) | Desktop editing and playback of lyrics and visuals on a musical timeline |
 | [ChatGPT Account Switcher](https://github.com/nickfouf/ChatGPTAccountSwitcher) | Desktop account switching, local storage and release tooling |
 | [Conduit.js](https://github.com/nickfouf/conduit-js) | Real-time JSON transport over UDP in Node.js |
-| [C++ Stepper](https://github.com/nickfouf/cpp-stepper) | Educational C++ parsing and step-by-step evaluation in JavaScript |
 
 ## Contact
 
